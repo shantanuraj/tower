@@ -1,0 +1,11 @@
+{
+  "name": "tower",
+  "version": "1.0.0",
+  "description": "Translation webapp",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "xml2js": "^0.4.22"
+  }
+}
